@@ -1,0 +1,29 @@
+{
+  "name": "SecureUtil",
+  "version": "0.0.2",
+  "description": "This is a SecueUtil plugins for project.",
+  "cordova": {
+    "id": "com.secureYou.dev",
+    "platforms": [
+      "android",
+      "ios",
+      "windows"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajibruj/SecureUtil.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-windows"
+  ],
+  "author": "Rajib Ruj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajibruj/SecureUtil/issues"
+  },
+  "homepage": "https://github.com/rajibruj/SecureUtil#readme"
+}
